@@ -25,7 +25,7 @@ SECRET_KEY = 'unl5h5$+++x5^&3oci#o29dnah$50qu8lefek74u6lw!x*o)a9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Cryhoo.pythonanywhere.com']
 
 
 # Application definition
